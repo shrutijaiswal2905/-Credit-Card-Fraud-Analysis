@@ -27,7 +27,7 @@
 
 ## 📷 Preview of the Dashboard
 
-![Dashboard Overview](./Screenshots/dashboard-overview.png)
+![Dashboard Overview](Screenshot.png)
 
 ---
 
